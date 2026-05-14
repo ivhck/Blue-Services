@@ -514,7 +514,7 @@ img {
 }
 
 .hero-section {
-  background: linear-gradient(135deg, #2a3b7e 0%, #5ea0d7 100%);
+  background: linear-gradient(135deg, #0b3274 0%, #0b3274 50%, #0b3274 100%);
   background-size: cover;
   background-position: center;
   padding-bottom: 80px;
